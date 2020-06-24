@@ -1,4 +1,4 @@
-# InteractivePanoramic
+# wireless360
 The source codes for "Unequal Error Protection Aided Region of Interest Aware Wireless Panoramic Video", IEEE ACCESS 2019.
 
 # System requirements
@@ -27,17 +27,10 @@ with correctly configed system. The following executable files can be run to acc
 
 # cite our work
 @ARTICLE{8733786,
-
   author={Y. {Huo} and X. {Wang} and P. {Zhang} and J. {Jiang} and L. {Hanzo}},
-  
   journal={IEEE Access},
-  
   title={Unequal Error Protection Aided Region of Interest Aware Wireless Panoramic Video},
-  
   year={2019},
-  
   volume={7},
-  
   number={},
-  
   pages={80262-80276},}
