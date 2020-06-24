@@ -15,7 +15,8 @@ the library the InteractivePanoramic project depends on. It enables video encodi
 
 # compiling the codes
 1. compile the CppCollection library
-2. edit CMakeLists.txt in the InteractivePanoramic folder if necessary
+2. edit CMakeLists.txt in the main folder if necessary
+3. compile the main project
 
 # how to run the codec
 with correctly configed system. The following executable files can be run to accomplish related simulations:
