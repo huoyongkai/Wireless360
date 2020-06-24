@@ -1,0 +1,7 @@
+width = 4096
+height = 2048
+rate = 25.000000
+format = UNK
+depth = 8
+space = YUV
+gamma = 1.000000
