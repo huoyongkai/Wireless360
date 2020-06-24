@@ -8,6 +8,8 @@ The source codes for "Unequal Error Protection Aided Region of Interest Aware Wi
 4. ffmpeg(Use the version with H.265 support)
 5. HM14
 6. matlab
+@note some function may not be used if a system depdendency is not provided
+
 # CppCollection
 the library the InteractivePanoramic project depends on. It enables video encoding/decoding, panoramic video conversion, FEC codecs, NALU formats, multi-process aided simulation and a lot more.
 
