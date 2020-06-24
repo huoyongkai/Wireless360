@@ -2,7 +2,7 @@
 The source codes for "Unequal Error Protection Aided Region of Interest Aware Wireless Panoramic Video", IEEE ACCESS 2019.
 
 # System requirements
-1. Linux with GCC
+1. Linux with gcc，g++
 2. Kdevelop, cmake, ccache(optional)
 3. ITPP(>4.3.1)
 4. ffmpeg(Use the version with H.265 support)
