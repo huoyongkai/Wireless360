@@ -4,15 +4,15 @@ The [source codes](https://github.com/huoyongkai/Wireless360) for "[Unequal Erro
 # System requirements
 1. Linux with gcc，g++
 2. Kdevelop, cmake, ccache(optional)
-3. ITPP(>4.3.1)
-4. ffmpeg(Use the version with H.265 support)
+3. IT++ (>4.3.1)
+4. ffmpeg (Use the version with H.265 support)
 5. HM14
 6. matlab
 
 @note some function may not be used if a system depdendency is not provided
 
 # CppCollection
-the library the InteractivePanoramic project depends on. It enables video encoding/decoding, panoramic video conversion, FEC codecs, NALU formats, multi-process aided simulation and a lot more.
+the library which the wireless360 project depends on enables video encoding/decoding, panoramic video conversion, FEC codecs, NALU formats, multi-process aided simulation and a lot more.
 
 # compiling the codes
 1. compile the CppCollection library
