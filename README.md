@@ -8,6 +8,7 @@ The [source codes](https://github.com/huoyongkai/Wireless360) for "[Unequal Erro
 4. ffmpeg(Use the version with H.265 support)
 5. HM14
 6. matlab
+
 @note some function may not be used if a system depdendency is not provided
 
 # CppCollection
@@ -30,10 +31,17 @@ with correctly configed system. The following executable files can be run to acc
 
 # cite our work
 @ARTICLE{8733786,
+
   author={Y. {Huo} and X. {Wang} and P. {Zhang} and J. {Jiang} and L. {Hanzo}},
+  
   journal={IEEE Access},
+  
   title={Unequal Error Protection Aided Region of Interest Aware Wireless Panoramic Video},
+  
   year={2019},
+  
   volume={7},
+  
   number={},
+  
   pages={80262-80276},}
